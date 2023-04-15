@@ -1,0 +1,87 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1655159428752-c700435e9983?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2tqYWNrfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+}
+body p{
+    margin: 20px;
+    margin-left: 55%;
+    font-size: 40px;
+    background: -webkit-linear-gradient(#f12711, #f5af19);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.heading{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: -webkit-linear-gradient(#fc4a1a, #f7b733);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+/* .glow {
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e66400, 0 0 40px #e95409, 0 0 50px #e60073, 0 0 60px #e18711, 0 0 70px #e60073;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #e25e21, 0 0 40px #ebac26, 0 0 50px #de481e, 0 0 60px #d1a110, 0 0 70px #ff744d, 0 0 80px #c17d11;
+    }
+  } */
+  
+/* .main{
+    height: 450px;
+    width: 450px;
+    color: #5F1B00;
+    background-color: rgb(90, 84, 84);
+    margin-left: 30%;
+    margin-top: -10px;
+    border-radius: 20px 0px 20px 0px;
+    opacity: 0.5;
+}
+.main p{
+    opacity: 1;
+} */
+
+h1{
+    color: goldenrod;
+    font-size: 60px;
+    margin-left: 55%;
+}
+#player-el{
+    font-size: 30px;
+    font-weight: 300;
+}
+.btn{
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    /* background: linear-gradient(to right, #333333, #dd1818); */
+    background: linear-gradient(to right, #f12711, #f5af19); 
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    margin: 20px;
+    margin-left: 55%;
+}
+.btn:hover{
+    cursor: pointer;
+    border: 2px solid white;
+}
