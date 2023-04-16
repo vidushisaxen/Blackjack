@@ -1,3 +1,6 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 body{
     background-image: url("https://images.unsplash.com/photo-1655159428752-c700435e9983?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YmxhY2tqYWNrfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
     background-size: cover;
