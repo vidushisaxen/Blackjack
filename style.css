@@ -43,7 +43,6 @@ h1{
     height: 40px;
     width: 150px;
     border-radius: 5px;
-    /* background: linear-gradient(to right, #333333, #dd1818); */
     background: linear-gradient(to right, #f12711, #f5af19); 
     color: white;
     font-weight: 500;
