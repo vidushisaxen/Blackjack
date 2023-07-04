@@ -4,7 +4,6 @@
 // >21 😒 
 // In blackjack the J,Q,K are all 10 and A is 11
 
-
 let sum = 0
 let cards = []
 let hasBlackJack = false
