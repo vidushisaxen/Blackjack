@@ -19,7 +19,6 @@ let cardEl = document.getElementById("card-el")
 let player = {
     name : "Vidushi",
     chips : 250
-
 }
 let playerEl = document.getElementById("player-el")
 playerEl.textContent = player.name + " : $" + player.chips
