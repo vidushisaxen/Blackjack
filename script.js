@@ -62,7 +62,6 @@ function renderGame(){
         isAlive = false
     }
     messageEl.textContent = msg 
-    
 }
  function newcard(){
     if(isAlive === true && hasBlackJack === false ){
