@@ -42,6 +42,7 @@ cards = [firstCard,secondCard]
 sum = firstCard + secondCard
     renderGame()
 }
+
 function renderGame(){
     cardEl.textContent = "Cards : "
     for(let i=0;i<cards.length;i++){
