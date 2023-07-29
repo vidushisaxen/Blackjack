@@ -36,6 +36,7 @@ function getRandomCard(){
 }
 }
 
+
 function start(){
     let firstCard = getRandomCard()
 let secondCard = getRandomCard()
