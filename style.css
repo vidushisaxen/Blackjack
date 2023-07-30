@@ -25,7 +25,7 @@ body p{
     margin-top: 5px;
     margin-bottom: 5px;
     background: -webkit-linear-gradient(#fc4a1a, #f7b733);
-    -webkit-background-clip: text;
+    -webkit-background-clip : text;
     -webkit-text-fill-color: transparent;
 }
 h1{
